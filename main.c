@@ -8,11 +8,12 @@
 
 
 
-
 int main(void)
 {
+	int x;
+	
 	while(1)
 	{
-		
+		x++;
 	}
 }
